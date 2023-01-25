@@ -14,5 +14,8 @@ To create simillar one you need to:
 * Enter ARUCO tags into the algo
 * Place boxes and ENJOY!!!
 
-### STL print files will be submitted soon ###
+### BEFORE use you need to calibrate your camera by creating YAML file. You need to use chessboard and start CameraCalibration.py ###
+### You can test accuracy of your calibration by starting DetectAruco.py. You will see ARUCO markers detection! ###
+
+### STL print files will be submitted soon! ###
 *You can use any scara robot manipulator. The most important part is to measure lengths of arm and forearm of your SCARA and you will be fine!*
